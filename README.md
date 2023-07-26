@@ -1,6 +1,4 @@
-# ase-assignment-whatshubhamdoes
-
-<br> Title : Simulating movement of an animated and digital Kaleidoscope <br>
+# Title : Simulating movement of an animated and digital Kaleidoscope
 
 <br> Objective : To create a software and visual artefact that simulates the movement of an animated and digital Kaleidoscope using Frame Buffer Object, Shaders and Ray Marching<br>
 
